@@ -17,16 +17,16 @@ The dataset includes dermatoscopic images labeled into **7 categories**, and the
 
 ---
 
-## 🧪 Techniques Implemented
-
+##  🧱 Project Structure
 | Section | Description |
 |--------|-------------|
+| CAP_1  | Project overview, motivation and dataset introduction |
 | CAP_2  | SVM binary & multiclass using metadata (age, sex, localization) |
 | CAP_3  | Image loading and preprocessing (train/val/test split) |
 | CAP_4  | SVM on raw pixels + handcrafted color features |
-| CAP_5  | CNN (custom model) trained on full images |
+| CAP_5  | Custom CNN model trained on dermoscopic images |
 | CAP_6  | Experimental CNN using image segmentation masks |
-
+| CONCLUSIONI | Summary of findings, comparison of models and future work |
 ---
 
 ## ▶️ How to Run (in Colab)
